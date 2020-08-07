@@ -1,3 +1,2 @@
-# travis-tyler.github.io
-
-A portfolio to show off past work and apps.
+# portfolio
+A website to display past work and apps
